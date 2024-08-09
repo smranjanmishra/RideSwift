@@ -21,7 +21,7 @@
 
 ## Installation
 <h2>Clone the repository :</h2>
-git clone https://github.com/yourusername/RideSwift.git
+git clone https://github.com/smranjanmishra/RideSwift.git
 
 <h2>Navigate to the project directory :</h2>
 cd RideSwift
