@@ -33,4 +33,4 @@ cd RideSwift
 <p>API Endpoints: Refer to the API documentation for details on available endpoints and their usage.</p>
 
 ## Contact
-<P>For questions or feedback, please reach out to me soumyarmishra065@gmail.com</P>
+<P>For questions or feedback, please reach out to me : <b> soumyarmishra065@gmail.com</b></P>
