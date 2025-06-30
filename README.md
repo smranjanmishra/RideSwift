@@ -1,6 +1,7 @@
 ## RideSwift
 <p>RideSwift is a comprehensive ride-booking platform developed using Java and Spring Boot. It provides seamless customer and driver management, real-time trip booking, and dynamic coupon discounts.</p>
 
+
 ## Features
 
 • Customer and Driver Management: Register, update, and manage customer and driver profiles. <br>
